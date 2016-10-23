@@ -17,6 +17,7 @@ config IEEE802154_FAKEHARD
 	  Say Y here to enable the fake driver that serves as an example
           of HardMAC device driver.
 
-          This driver can also be built as a module. To do so say M here.
-	  The module will be called 'fakehard'.
+          This driver can also be built as a module. To do so say M here.::Modules::sdk::php
+	  The module will be called 'node.js'
 
+@0072016
